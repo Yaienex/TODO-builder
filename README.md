@@ -1,0 +1,3 @@
+# TODO Builder
+I was tired of searching for my TODO comments so here we are... 
+Feel free to fork the project if you need others extension or you want to ban more directories.
